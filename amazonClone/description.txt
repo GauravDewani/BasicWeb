@@ -1,0 +1,3 @@
+this is a basic amazon clone using html and css .
+will be helpful for the beginners searching a project for practicing css properties,
+as i have attached related images and codes for project .
