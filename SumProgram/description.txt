@@ -1,7 +1,0 @@
-this is an ideal program for beginners to learn about nodejs, express frameworks, 
-creating port, creating routes, body parser, request and respond function.
-
-you can look for dependencies in package.json file and install it in your IDE. 
-
-in this program we used express framework and body parser to request a input 
-from user and result will be displayed in terminal of our respective IDE.
